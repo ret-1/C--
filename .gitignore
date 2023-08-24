@@ -1,0 +1,8 @@
+.DS_Store
+.vscode/
+.~report.md
+lex.yy.c
+syntax.output
+syntax.tab.c
+syntax.tab.h
+Code/parser.dSYM
